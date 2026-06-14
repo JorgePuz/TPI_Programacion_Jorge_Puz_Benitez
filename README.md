@@ -24,7 +24,7 @@ y estadísticas desde un menú interactivo en consola.
 
 ---
 
-## 👤 Integrantes
+## 👤 Integrante
 
 | Nombre |
 |---|---|
@@ -170,13 +170,13 @@ Argentina,45376763,2780400,América
 ## Documentación
 
 El informe académico en PDF se encuentra en la raíz del repositorio:  
-📎 [Informe_TPI_Programacion1.pdf](./Informe_TPI_Programacion1.pdf)
+📎 [Informe_TPI_Programacion1.pdf](./Informe_TPI_Programacion1_Jorge_Puz_Benitez.pdf)
 
 ---
 
 ## Video explicativo
 
-📹 [Ver video en YouTube](TU_LINK)
+📹 [Ver video en YouTube](https://youtu.be/PTDYz29WqpM)
 
 ---
 
